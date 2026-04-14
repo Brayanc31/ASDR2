@@ -20,12 +20,12 @@ Cada script sigue un pipeline de compilación clásico:
 * **Verificación LL(1)**: Comprobación de intersecciones vacías entre conjuntos de predicción.
 * **ASDR**: Implementación funcional mediante funciones recursivas que validan cadenas de tokens.
 
-## 📋 Requisitos
+## Requisitos
 
 * **Lenguaje**: Python 3.x
 * **Librerías**: No requiere librerías externas (Standard Library únicamente).
 
-## 💻 Ejecución y Pruebas
+##  Ejecución y Pruebas
 
 Para ejecutar cualquiera de los ejercicios y ver los resultados junto con la batería de pruebas extendida, usa:
 
